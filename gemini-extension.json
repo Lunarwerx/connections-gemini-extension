@@ -1,0 +1,11 @@
+{
+  "name": "connections",
+  "version": "1.0.0",
+  "description": "Connections for Gemini CLI: host events with ticketing, import and search contacts, browse and post Deal Flow marketplace deals, keep notes and memory, and take payments through the hosted Connections MCP server (OAuth sign-in on first use, nothing to install).",
+  "mcpServers": {
+    "connections": {
+      "httpUrl": "https://studio.connections.icu/v1/mcp",
+      "timeout": 30000
+    }
+  }
+}
