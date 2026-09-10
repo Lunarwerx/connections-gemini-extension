@@ -5,6 +5,8 @@ marketplace, notes and memory, and payments, reachable from any assistant throug
 MCP server. This extension adds that server to Gemini CLI. Nothing runs locally; you sign in
 with your Connections account in the browser the first time a tool is called.
 
+[![Discord](https://img.shields.io/badge/Discord-join_the_community-5865F2?logo=discord&logoColor=white)](https://discord.gg/PsWpeNUzhk)
+
 ## Install
 
 ```sh
