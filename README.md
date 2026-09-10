@@ -6,6 +6,7 @@ MCP server. This extension adds that server to Gemini CLI. Nothing runs locally;
 with your Connections account in the browser the first time a tool is called.
 
 [![Discord](https://img.shields.io/badge/Discord-join_the_community-5865F2?logo=discord&logoColor=white)](https://discord.gg/PsWpeNUzhk)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 ## Install
 
